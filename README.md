@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,unity,py,linux,cs,mysql,powershell" />
+  </a>
+</p>
+
+
 <!--
 **allancbs3/allancbs3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
