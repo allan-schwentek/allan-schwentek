@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allancbs3&show_icons=true&theme=radical)](https://github.com/allancbs3/github-readme-stats)
+
+
+#
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,unity,py,linux,cs,mysql,powershell" />
