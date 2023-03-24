@@ -1,8 +1,13 @@
 ### Hi there 👋
 #
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allancbs3&show_icons=true&theme=radical)](https://github.com/allancbs3/github-readme-stats)![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allancbs3&hide=html&layout=compact&theme=radical&hide_border=true)
-
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=allancbs3&theme=radical&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allancbs3&layout=compact&theme=radical&count_private=true&hide_border=true)</a>
+  
+</details>
 
 #
 <p align="center">
