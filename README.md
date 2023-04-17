@@ -11,7 +11,7 @@
 
 #
 <p align="center">
-    <a href="https://www.linkedin.com/in/allan-schwentek/">
+    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,unity,py,linux,cs,mysql,powershell" />
   </a>
 </p>
