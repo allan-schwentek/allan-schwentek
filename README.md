@@ -4,8 +4,8 @@
 <details>
   <summary>Github Stats ⚡</summary>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=allancbs3&theme=radical&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allancbs3&layout=compact&theme=radical&count_private=true&hide_border=true)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=allan-schwentek&theme=radical&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allan-schwentek&layout=compact&theme=radical&count_private=true&hide_border=true)</a>
   
 </details>
 
